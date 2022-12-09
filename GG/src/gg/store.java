@@ -1046,7 +1046,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1075,7 +1075,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1102,7 +1102,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1129,7 +1129,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1156,7 +1156,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1183,7 +1183,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1210,7 +1210,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1237,7 +1237,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1264,7 +1264,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1291,7 +1291,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1318,7 +1318,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1345,7 +1345,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1372,7 +1372,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1399,7 +1399,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1426,7 +1426,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1453,7 +1453,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1480,7 +1480,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1507,7 +1507,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1534,7 +1534,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
@@ -1561,7 +1561,7 @@ public class store extends javax.swing.JFrame {
 
         try {
             mongo = new MongoClient("localhost", 27017);
-            dbconnection = mongo.getDatabase("BigData");
+            dbconnection = mongo.getDatabase("JavaMongodb");
             collection = dbconnection.getCollection("listed");
 
             Document collecting = new Document();
